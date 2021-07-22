@@ -20,7 +20,7 @@
 - Building a checkout workflow:
      checkout-->Cart-->Pricing<-->Payments->Fulfilment
 - Start the "checkout-workflow" app
-  npm run develop:service
-  npm run start:service
-  npm run start:direct-broker-service
+   - npm run develop:service
+   - npm run start:service
+   - npm run start:direct-broker-service
 - Test using Postman app
