@@ -1,3 +1,4 @@
+Youtube Video about the project: https://youtu.be/zILVISG8qh0
 # Sample code for Moleculer.js
 
 - Run `npm install` to get started
